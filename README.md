@@ -3,7 +3,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VIVF0&show_icons=true&theme=dark" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIVF0&show_icons=true&theme=dark"/>
+  <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIVF0&show_icons=true&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
